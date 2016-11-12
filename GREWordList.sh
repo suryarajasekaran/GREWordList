@@ -4,7 +4,7 @@ INPUT_DAY=$1
 
 openDay1()
 {
-    open http://www.thefreedictionary.com/abase
+        open http://www.thefreedictionary.com/abase
     open http://www.thefreedictionary.com/abate
     open http://www.thefreedictionary.com/abdicate
     open http://www.thefreedictionary.com/aberrant
@@ -70,8 +70,10 @@ openDay2()
     open http://www.thefreedictionary.com/approbation
     open http://www.thefreedictionary.com/appropriate
     open http://www.thefreedictionary.com/arbiter
+    open http://www.thefreedictionary.com/arcane
     open http://www.thefreedictionary.com/archaic
     open http://www.thefreedictionary.com/ardent
+    open http://www.thefreedictionary.com/arduous
     open http://www.thefreedictionary.com/arrogate
     open http://www.thefreedictionary.com/articulate
     open http://www.thefreedictionary.com/artifact
@@ -82,8 +84,6 @@ openDay2()
     open http://www.thefreedictionary.com/aseptic
     open http://www.thefreedictionary.com/asperity
     open http://www.thefreedictionary.com/aspersions
-    open http://www.thefreedictionary.com/assail
-    open http://www.thefreedictionary.com/assail
     open http://www.thefreedictionary.com/assail
     open http://www.thefreedictionary.com/assiduous
     open http://www.thefreedictionary.com/assuage
@@ -109,6 +109,7 @@ openDay3()
     open http://www.thefreedictionary.com/bane
     open http://www.thefreedictionary.com/base
     open http://www.thefreedictionary.com/baying
+    open http://www.thefreedictionary.com/belie
     open http://www.thefreedictionary.com/beneficent
     open http://www.thefreedictionary.com/benign
     open http://www.thefreedictionary.com/bent
@@ -116,6 +117,7 @@ openDay3()
     open http://www.thefreedictionary.com/bevy
     open http://www.thefreedictionary.com/bifurcate
     open http://www.thefreedictionary.com/bilk
+    open http://www.thefreedictionary.com/blight
     open http://www.thefreedictionary.com/blithe
     open http://www.thefreedictionary.com/bogus
     open http://www.thefreedictionary.com/bolster
@@ -126,8 +128,6 @@ openDay3()
     open http://www.thefreedictionary.com/brook
     open http://www.thefreedictionary.com/bucolic
     open http://www.thefreedictionary.com/buffer
-    open http://www.thefreedictionary.com/bureaucracy
-    open http://www.thefreedictionary.com/bureaucracy
     open http://www.thefreedictionary.com/bureaucracy
     open http://www.thefreedictionary.com/burgeon
     open http://www.thefreedictionary.com/burnish
@@ -153,6 +153,7 @@ openDay4()
     open http://www.thefreedictionary.com/chauvinism
     open http://www.thefreedictionary.com/chicanery
     open http://www.thefreedictionary.com/chronological
+    open http://www.thefreedictionary.com/circumscribe
     open http://www.thefreedictionary.com/circumspect
     open http://www.thefreedictionary.com/clamber
     open http://www.thefreedictionary.com/clamor
@@ -160,6 +161,7 @@ openDay4()
     open http://www.thefreedictionary.com/cloying
     open http://www.thefreedictionary.com/coagulate
     open http://www.thefreedictionary.com/coalesee
+    open http://www.thefreedictionary.com/coda
     open http://www.thefreedictionary.com/coffer
     open http://www.thefreedictionary.com/cogent
     open http://www.thefreedictionary.com/collude
@@ -170,8 +172,6 @@ openDay4()
     open http://www.thefreedictionary.com/complementary
     open http://www.thefreedictionary.com/compliant
     open http://www.thefreedictionary.com/concede
-    open http://www.thefreedictionary.com/conciliatory
-    open http://www.thefreedictionary.com/conciliatory
     open http://www.thefreedictionary.com/conciliatory
     open http://www.thefreedictionary.com/concur
     open http://www.thefreedictionary.com/condone
@@ -197,6 +197,7 @@ openDay5()
     open http://www.thefreedictionary.com/conversant
     open http://www.thefreedictionary.com/conversely
     open http://www.thefreedictionary.com/convoke
+    open http://www.thefreedictionary.com/convoluted
     open http://www.thefreedictionary.com/copious
     open http://www.thefreedictionary.com/corroborate
     open http://www.thefreedictionary.com/cosmopolitan
@@ -204,6 +205,7 @@ openDay5()
     open http://www.thefreedictionary.com/coterie
     open http://www.thefreedictionary.com/countenance
     open http://www.thefreedictionary.com/counterintuitive
+    open http://www.thefreedictionary.com/counterpoint
     open http://www.thefreedictionary.com/counterproductive
     open http://www.thefreedictionary.com/covert
     open http://www.thefreedictionary.com/crafty
@@ -214,52 +216,6 @@ openDay5()
     open http://www.thefreedictionary.com/culminate
     open http://www.thefreedictionary.com/cupidity
     open http://www.thefreedictionary.com/curmudgeon
-    open http://www.thefreedictionary.com/cynical
-    open http://www.thefreedictionary.com/cynical
-    open http://www.thefreedictionary.com/cynical
-    open http://www.thefreedictionary.com/daunt
-    open http://www.thefreedictionary.com/debase
-    open http://www.thefreedictionary.com/debunk
-}
-
-openDay6()
-{
-    open http://www.thefreedictionary.com/confound
-    open http://www.thefreedictionary.com/connoisseur
-    open http://www.thefreedictionary.com/connote
-    open http://www.thefreedictionary.com/console
-    open http://www.thefreedictionary.com/consolidate
-    open http://www.thefreedictionary.com/constrict
-    open http://www.thefreedictionary.com/construe
-    open http://www.thefreedictionary.com/contentious
-    open http://www.thefreedictionary.com/contextualize
-    open http://www.thefreedictionary.com/contraries
-    open http://www.thefreedictionary.com/contrite
-    open http://www.thefreedictionary.com/contumacious
-    open http://www.thefreedictionary.com/conundrum
-    open http://www.thefreedictionary.com/converge
-    open http://www.thefreedictionary.com/conversant
-    open http://www.thefreedictionary.com/conversely
-    open http://www.thefreedictionary.com/convoke
-    open http://www.thefreedictionary.com/copious
-    open http://www.thefreedictionary.com/corroborate
-    open http://www.thefreedictionary.com/cosmopolitan
-    open http://www.thefreedictionary.com/cosset
-    open http://www.thefreedictionary.com/coterie
-    open http://www.thefreedictionary.com/countenance
-    open http://www.thefreedictionary.com/counterintuitive
-    open http://www.thefreedictionary.com/counterproductive
-    open http://www.thefreedictionary.com/covert
-    open http://www.thefreedictionary.com/crafty
-    open http://www.thefreedictionary.com/craven
-    open http://www.thefreedictionary.com/credibility
-    open http://www.thefreedictionary.com/credulous
-    open http://www.thefreedictionary.com/crescendo
-    open http://www.thefreedictionary.com/culminate
-    open http://www.thefreedictionary.com/cupidity
-    open http://www.thefreedictionary.com/curmudgeon
-    open http://www.thefreedictionary.com/cynical
-    open http://www.thefreedictionary.com/cynical
     open http://www.thefreedictionary.com/cynical
     open http://www.thefreedictionary.com/daunt
     open http://www.thefreedictionary.com/debase
@@ -285,6 +241,7 @@ openDay6()
     open http://www.thefreedictionary.com/denote
     open http://www.thefreedictionary.com/deride
     open http://www.thefreedictionary.com/derivative
+    open http://www.thefreedictionary.com/desiccate
     open http://www.thefreedictionary.com/desultory
     open http://www.thefreedictionary.com/detached
     open http://www.thefreedictionary.com/deterrant
@@ -292,6 +249,7 @@ openDay6()
     open http://www.thefreedictionary.com/diatribe
     open http://www.thefreedictionary.com/dichotomy
     open http://www.thefreedictionary.com/dictum
+    open http://www.thefreedictionary.com/didactic
     open http://www.thefreedictionary.com/diffident
     open http://www.thefreedictionary.com/diffuse
     open http://www.thefreedictionary.com/digress
@@ -302,8 +260,6 @@ openDay6()
     open http://www.thefreedictionary.com/dirge
     open http://www.thefreedictionary.com/disabuse
     open http://www.thefreedictionary.com/discerning
-    open http://www.thefreedictionary.com/discomfiting
-    open http://www.thefreedictionary.com/discomfiting
     open http://www.thefreedictionary.com/discomfiting
     open http://www.thefreedictionary.com/discordant
     open http://www.thefreedictionary.com/discredit
@@ -329,6 +285,7 @@ openDay7()
     open http://www.thefreedictionary.com/disseminate
     open http://www.thefreedictionary.com/dissent
     open http://www.thefreedictionary.com/dissolution
+    open http://www.thefreedictionary.com/dissonance
     open http://www.thefreedictionary.com/distaff
     open http://www.thefreedictionary.com/distend
     open http://www.thefreedictionary.com/distill
@@ -336,18 +293,17 @@ openDay7()
     open http://www.thefreedictionary.com/dirunal
     open http://www.thefreedictionary.com/diverge
     open http://www.thefreedictionary.com/divest
+    open http://www.thefreedictionary.com/divine
     open http://www.thefreedictionary.com/doctrinaire
     open http://www.thefreedictionary.com/document
     open http://www.thefreedictionary.com/doff
-    open http://www.thefreedictionary.com/doff
     open http://www.thefreedictionary.com/dogma
+    open http://www.thefreedictionary.com/dormat
     open http://www.thefreedictionary.com/dovetail
     open http://www.thefreedictionary.com/droll
     open http://www.thefreedictionary.com/dubious
     open http://www.thefreedictionary.com/dupe
     open http://www.thefreedictionary.com/duplicity
-    open http://www.thefreedictionary.com/dyspeptic
-    open http://www.thefreedictionary.com/dyspeptic
     open http://www.thefreedictionary.com/dyspeptic
     open http://www.thefreedictionary.com/example
     open http://www.thefreedictionary.com/ebullient
@@ -356,17 +312,134 @@ openDay7()
 
 openDay8()
 {
-    open "https://sqbu-github.cisco.com/WebExSquared/platform/milestones/Quest%20for%20Boring#boards?repos=48,1885,7290,8085,4222,4709,8095,144,203&assignee=$1"
+    open http://www.thefreedictionary.com/echelon
+    open http://www.thefreedictionary.com/eclectic
+    open http://www.thefreedictionary.com/eclipse
+    open http://www.thefreedictionary.com/edify
+    open http://www.thefreedictionary.com/efficacy
+    open http://www.thefreedictionary.com/effigy
+    open http://www.thefreedictionary.com/effrontery
+    open http://www.thefreedictionary.com/egalitarian
+    open http://www.thefreedictionary.com/egregious
+    open http://www.thefreedictionary.com/egress
+    open http://www.thefreedictionary.com/elated
+    open http://www.thefreedictionary.com/elegy
+    open http://www.thefreedictionary.com/elevate
+    open http://www.thefreedictionary.com/elicit
+    open http://www.thefreedictionary.com/eloquent
+    open http://www.thefreedictionary.com/emaciate
+    open http://www.thefreedictionary.com/embellish
+    open http://www.thefreedictionary.com/eminent
+    open http://www.thefreedictionary.com/empirical
+    open http://www.thefreedictionary.com/emulate
+    open http://www.thefreedictionary.com/encomium
+    open http://www.thefreedictionary.com/endemic
+    open http://www.thefreedictionary.com/enervate
+    open http://www.thefreedictionary.com/engender
+    open http://www.thefreedictionary.com/enhance
+    open http://www.thefreedictionary.com/enigma
+    open http://www.thefreedictionary.com/entitlement
+    open http://www.thefreedictionary.com/enumerate
+    open http://www.thefreedictionary.com/ephermal
+    open http://www.thefreedictionary.com/epicure
+    open http://www.thefreedictionary.com/equanimity
+    open http://www.thefreedictionary.com/equitable
+    open http://www.thefreedictionary.com/equivocate
+    open http://www.thefreedictionary.com/erratic
+    open http://www.thefreedictionary.com/erroneous
+    open http://www.thefreedictionary.com/ersatz
+    open http://www.thefreedictionary.com/erstwhile
+    open http://www.thefreedictionary.com/erudite
+    open http://www.thefreedictionary.com/eschew
+    open http://www.thefreedictionary.com/esoteric
 }
 
 openDay9()
 {
-    open "https://sqbu-github.cisco.com/WebExSquared/platform/milestones/Quest%20for%20Boring#boards?repos=48,1885,7290,8085,4222,4709,8095,144,203&assignee=$1"
+    open http://www.thefreedictionary.com/estimable
+    open http://www.thefreedictionary.com/ethos
+    open http://www.thefreedictionary.com/eulogy
+    open http://www.thefreedictionary.com/euphemism
+    open http://www.thefreedictionary.com/euphony
+    open http://www.thefreedictionary.com/exaccerbate
+    open http://www.thefreedictionary.com/exacting
+    open http://www.thefreedictionary.com/exculpate
+    open http://www.thefreedictionary.com/exhaustive
+    open http://www.thefreedictionary.com/exigent
+    open http://www.thefreedictionary.com/exonerate
+    open http://www.thefreedictionary.com/expedient
+    open http://www.thefreedictionary.com/explicit
+    open http://www.thefreedictionary.com/exponent
+    open http://www.thefreedictionary.com/expurgate
+    open http://www.thefreedictionary.com/extemporaneous
+    open http://www.thefreedictionary.com/extrapolate
+    open http://www.thefreedictionary.com/facetious
+    open http://www.thefreedictionary.com/facilitate
+    open http://www.thefreedictionary.com/faction
+    open http://www.thefreedictionary.com/fallacious
+    open http://www.thefreedictionary.com/fallow
+    open http://www.thefreedictionary.com/fanatical
+    open http://www.thefreedictionary.com/fanciful
+    open http://www.thefreedictionary.com/fastidious
+    open http://www.thefreedictionary.com/fathom
+    open http://www.thefreedictionary.com/fatuous
+    open http://www.thefreedictionary.com/fawn
+    open http://www.thefreedictionary.com/feasible
+    open http://www.thefreedictionary.com/fecund
+    open http://www.thefreedictionary.com/felicitous
+    open http://www.thefreedictionary.com/fervid
+    open http://www.thefreedictionary.com/fetid
+    open http://www.thefreedictionary.com/fidelity
+    open http://www.thefreedictionary.com/figurative
+    open http://www.thefreedictionary.com/finesse
+    open http://www.thefreedictionary.com/flag
+    open http://www.thefreedictionary.com/feldgling
+    open http://www.thefreedictionary.com/fleeting
+    open http://www.thefreedictionary.com/florid
 }
 
 openDay10()
 {
-    open "https://sqbu-github.cisco.com/WebExSquared/platform/milestones/Quest%20for%20Boring#boards?repos=48,1885,7290,8085,4222,4709,8095,144,203&assignee=$1"
+    open http://www.thefreedictionary.com/flout
+    open http://www.thefreedictionary.com/fluke
+    open http://www.thefreedictionary.com/foment
+    open http://www.thefreedictionary.com/forage
+    open http://www.thefreedictionary.com/ford
+    open http://www.thefreedictionary.com/foreshadow
+    open http://www.thefreedictionary.com/forestall
+    open http://www.thefreedictionary.com/forfeit
+    open http://www.thefreedictionary.com/fortify
+    open http://www.thefreedictionary.com/fortuitious
+    open http://www.thefreedictionary.com/fracas
+    open http://www.thefreedictionary.com/fractious
+    open http://www.thefreedictionary.com/frenetic
+    open http://www.thefreedictionary.com/fringe
+    open http://www.thefreedictionary.com/frugal
+    open http://www.thefreedictionary.com/fulminate
+    open http://www.thefreedictionary.com/furtive
+    open http://www.thefreedictionary.com/futile
+    open http://www.thefreedictionary.com/gainsay
+    open http://www.thefreedictionary.com/gambol
+    open http://www.thefreedictionary.com/garner
+    open http://www.thefreedictionary.com/garrulous
+    open http://www.thefreedictionary.com/gauche
+    open http://www.thefreedictionary.com/gawky
+    open http://www.thefreedictionary.com/germane
+    open http://www.thefreedictionary.com/gestation
+    open http://www.thefreedictionary.com/gist
+    open http://www.thefreedictionary.com/glacial
+    open http://www.thefreedictionary.com/glib
+    open http://www.thefreedictionary.com/glower
+    open http://www.thefreedictionary.com/goad
+    open http://www.thefreedictionary.com/goosebumps
+    open http://www.thefreedictionary.com/gouge
+    open http://www.thefreedictionary.com/gradation
+    open http://www.thefreedictionary.com/graft
+    open http://www.thefreedictionary.com/gradiloquent
+    open http://www.thefreedictionary.com/grandstand
+    open http://www.thefreedictionary.com/grating
+    open http://www.thefreedictionary.com/gregarious
+    open http://www.thefreedictionary.com/grievous
 }
 
 openDay11()
